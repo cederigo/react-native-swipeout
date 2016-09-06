@@ -12,7 +12,6 @@ const styles = StyleSheet.create({
   },
   swipeoutBtn: {
     alignItems: 'center',
-    backgroundColor: '#b6bec0',
     flex: 1,
     justifyContent: 'center',
     overflow: 'hidden',
